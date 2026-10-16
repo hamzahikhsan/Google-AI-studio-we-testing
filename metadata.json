@@ -1,0 +1,6 @@
+{
+  "name": "NexusCloud — Cloud Infrastructure & Operations",
+  "description": "Modern cloud operations platform and landing page featuring real-time cluster telemetry, collapsible workspace sidebar, and interactive operational data tables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
